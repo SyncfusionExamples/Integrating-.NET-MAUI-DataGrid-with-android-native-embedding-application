@@ -159,7 +159,7 @@ protected override void OnCreate(Bundle? savedInstanceState)
 ### OutPut
  ![Android_ScreenShot.png](https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI2NzU0Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.7MBTv5ylTjj8UHoL3jXMsNaqLbjci1jpJorqfXqMzo0)
 
-[View sample in GitHub]()
+[View sample in GitHub](https://github.com/SyncfusionExamples/Integrating-.NET-MAUI-DataGrid-with-android-native-embedding-application/tree/master)
 
 Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).
  

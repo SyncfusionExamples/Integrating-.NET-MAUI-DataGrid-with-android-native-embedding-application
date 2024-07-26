@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <OutputType>Exe</OutputType>
+	  <UseMaui>true</UseMaui>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationId>com.companyname.SfDataGridSample</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+  </PropertyGroup>
+
+<ItemGroup>
+    <PackageReference Include="Syncfusion.Maui.Core" Version="26.1.42" />
+    <PackageReference Include="Syncfusion.Maui.DataGrid" Version="26.1.42" />
+  </ItemGroup>
+
+<ProjectExtensions><VisualStudio><UserProperties XamarinHotReloadDebuggerTimeoutExceptionSfDataGridAndroidSampleHideInfoBar="True" /></VisualStudio></ProjectExtensions>
+
+<ItemGroup>
+  <PackageReference Update="Microsoft.Maui.Controls" Version="8.0.70" />
+</ItemGroup>
+
+<ItemGroup>
+  <PackageReference Update="Microsoft.Maui.Controls.Compatibility" Version="8.0.70" />
+</ItemGroup>
+</Project>
